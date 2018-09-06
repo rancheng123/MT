@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "plugins": [
+    "vue"
+  ],
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "no-return-await":"off"
+  }
+}

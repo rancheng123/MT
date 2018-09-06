@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+.cache-loader/
+<<<<<<< HEAD
+.idea
+.DS_Store
+client/.DS_Store
+=======
+.DS_Store
+static/
+>>>>>>> master
